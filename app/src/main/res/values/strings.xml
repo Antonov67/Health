@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">HealthDiary</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_main3">MainActivity</string>
+    <string name="textview">Введите показатели здоровья</string>
+    <string name="textdata">дата измерений</string>
+    <string name="textves">вес</string>
+    <string name="texttemp">температура</string>
+    <string name="textudavl">верхняя граница давления</string>
+    <string name="textddavl">нижняя граница давления</string>
+    <string name="textpulse">пульс</string>
+    <string name="buttonadd">внести данные</string>
+    <string name="buttonlist">просмотреть внесенные данные</string>
+    <string name="textgraf">Графики на основе введенных данных</string>
+    <string name="buttonves">График изменения веса</string>
+    <string name="buttontemp">график изменения температуры</string>
+    <string name="buttonpressure">график изменения давления</string>
+    <string name="buttonpulse">график изменения пульса</string>
+    <string name="buttondelete">удалить все данные из базы</string>
+    <string name="buttindata">Занесение данных</string>
+    <string name="buttgraf">Графики</string>
+    <string name="textAbout">Дневник вашего здоровья. v1.0</string>
+    <string name="textAbout2">автор: Антонов Дмитрий</string>
+    <string name="buttlistdata">введенные данные</string>
+    <string name="textprobel">"                                                                                        "</string>
+    <string name="textot">Дата начала</string>
+    <string name="textdo">Дата конца</string>
+</resources>
